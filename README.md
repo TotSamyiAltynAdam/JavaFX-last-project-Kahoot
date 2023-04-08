@@ -1,0 +1,1 @@
+The version of Java FX is {openjfx 17.0.2}
